@@ -67,7 +67,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open https://company-intel-21.preview.emergentagent.com/ in your browser.
 
 ### Configuration
 
@@ -186,14 +186,14 @@ The crawler:
 
 ## 🚢 Deployment
 
-### Vercel (Recommended)
+### Emergent
 
 ```bash
-# Install Vercel CLI
-npm i -g vercel
+# Install emergent CLI
+npm i -g emergent
 
 # Deploy
-vercel
+emergent
 ```
 
 Or connect your GitHub repository to Vercel for automatic deployments.
