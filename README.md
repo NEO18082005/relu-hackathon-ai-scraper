@@ -40,7 +40,7 @@ Research any company by providing a company name or website URL. The application
 | Crawling | Edge Runtime + fetch + regex parsing |
 | PDF | jsPDF + jspdf-autotable |
 | Fonts | Space Grotesk, Inter, JetBrains Mono |
-| Deployment | Vercel |
+| Deployment | Emergent |
 
 ---
 
@@ -196,9 +196,9 @@ npm i -g emergent
 emergent
 ```
 
-Or connect your GitHub repository to Vercel for automatic deployments.
+Or connect your GitHub repository to Emergent for automatic deployments.
 
-The application uses Edge Runtime for API routes, ensuring compatibility with Vercel's serverless function limits.
+The application uses Edge Runtime for API routes, ensuring compatibility with Emergent's serverless function limits.
 
 ---
 
