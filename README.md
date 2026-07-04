@@ -8,6 +8,7 @@ Research any company by providing a company name or website URL. The application
 
 ---
 
+
 ## ✨ Features
 
 ### Core Features
